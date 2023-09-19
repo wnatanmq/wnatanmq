@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![image](https://github.com/wnatanmq/wnatanmq/assets/42272030/f4927cc0-fcbe-40ee-89bc-4096017dd724)
+
 <!--
 **wnatanmq/wnatanmq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
