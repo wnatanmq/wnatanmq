@@ -6,7 +6,7 @@
 
 ```bash
 > cat /opt/github/wnatanmq/wnatanmq/server-lang \
-    | grep -e "expert" -e "near-expert" | grep "loved"
+    | grep -e expert -e near-expert | grep loved
 ```
 ```
 python version>=2.11 expert loved
@@ -27,7 +27,7 @@ in wnatanmq/wnatanmq/topics-help
 #####
 ```
 ```bash
-> cat /opt/github/wnatanmq/wnatanmq/topics-help | grep -e "excited" -e ""relaxed"
+> cat /opt/github/wnatanmq/wnatanmq/topics-help | grep -e excited -e relaxed
 ```
 ```
 architecture excited
@@ -36,5 +36,5 @@ health relaxed
 stoicism relaxed
 ```
 ```bash
-~ >
+~ > ␇
 ```
