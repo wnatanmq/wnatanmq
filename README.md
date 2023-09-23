@@ -3,11 +3,16 @@
 <p align="center">
 <img  align="center" src="https://github.com/wnatanmq/wnatanmq/assets/42272030/11aa5f6c-686f-46ca-b48c-3ebd9f941508" width="200" />
 </p>
+```shell
+> cat /opt/github/wnatanmq/wnatanmq/server-lang | grep -e "expert" -e "near-expert" | grep "loved"
 
-My best programming language is >
-- PYTHON
-- JAVA
-- GOLANG
+python version>=2.11 expert loved
+java version>=11 expert loved
+golang version>=1.0 near-expert loved
+
+~ >
+```
+
 
 About their languages, I don't see them as competitors, but I do see them as complementary in a mature architecture.
 
