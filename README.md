@@ -6,7 +6,7 @@
 
 ```bash
 > cat /opt/github/wnatanmq/wnatanmq/server-lang \
-    | grep -e expert -e near-expert | grep loved
+    | grep -e expert -e near-expert -e loved
 ```
 ```
 python version>=2.11 expert loved
