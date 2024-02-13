@@ -1,3 +1,5 @@
+<a name="readme-top"></a>
+
 ### Here 🧷
 
 <p align="center">
@@ -16,7 +18,23 @@ I'm python developer for AWS technologies. More stuffs i do, is for private proj
 
 ## Tecnologies i worked
 
-[[ELASTIC SEARCH][DYNAMODB][ECS][EKS][DJANGO][PYSPARK][HADOOP][KAFKA][SQS]]
+<p align="rigth">
+<img  align="center" src="https://img.shields.io/badge/ELASTIC_SEARCH-blue" width="160" />
+<img  align="center" src="https://img.shields.io/badge/AWS_ECS-blue" width="100" />
+<img  align="center" src="https://img.shields.io/badge/AWS_EKS-blue" width="100" />
+<img  align="center" src="https://img.shields.io/badge/PYSPARK-blue" width="100" />
+<img  align="center" src="https://img.shields.io/badge/HADOOP-blue" width="100" />
+<img  align="center" src="https://img.shields.io/badge/APACHE_KAFKA-blue" width="150" />
+<img  align="center" src="https://img.shields.io/badge/AWS_SQS-blue" width="100" />
+<img  align="center" src="https://img.shields.io/badge/DJANGO-blue" width="100" />
+<img  align="center" src="https://img.shields.io/badge/FAST_API-blue" width="100" />
+<img  align="center" src="https://img.shields.io/badge/AWS_LAMBDA-blue" width="150" />
+<img  align="center" src="https://img.shields.io/badge/AWS_GLUEJOBS-blue" width="150" />
+</p>
+
+<br>
+
+And more techologies.
 
 ## Why you will like to work with me
 
