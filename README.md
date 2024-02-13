@@ -15,7 +15,8 @@
 I'm python developer for AWS technologies. More stuffs i do, is for private projects.
 
 ## Tecnologies i worked
-[![info]]
+
+[[ELASTIC SEARCH][DYNAMODB][ECS][EKS][DJANGO][PYSPARK][HADOOP][KAFKA][SQS]]
 
 ## Why you will like to work with me
 
