@@ -14,6 +14,9 @@
 
 I'm python developer for AWS technologies. More stuffs i do, is for private projects.
 
+## Tecnologies i worked
+[![info]]
+
 ## Why you will like to work with me
 
 - I'm a good learner, and i like to make a good question
