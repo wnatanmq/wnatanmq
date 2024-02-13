@@ -7,8 +7,18 @@
 
 <details>
     <summary>
-        About me
+        about me
     </summary>
+
+## What I do
+
+I'm developer. More stuffs i do, is for private projects.
+
+## My favorite context
+
+In my road development, i work i a lot of contexts, but the my favorites is :
+- Finantials context, with a lot pipelines and queues
+- Educationals context, with a lot data for generate informations, as scheduled services
 
     
 </details>
