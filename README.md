@@ -4,7 +4,7 @@
 <img  align="center" src="https://github.com/wnatanmq/wnatanmq/assets/42272030/11aa5f6c-686f-46ca-b48c-3ebd9f941508" width="200" />
 </p>
 
-<detail>
+<details>
     <summary>
         Advanced details <<
     </summary>
@@ -44,4 +44,4 @@ stoicism relaxed
 ```bash
 ~ > ␇
 ```
-</detail>
+</details>
