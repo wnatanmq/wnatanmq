@@ -12,13 +12,20 @@
 
 ## What I do
 
-I'm developer. More stuffs i do, is for private projects.
+I'm python developer for AWS technologies. More stuffs i do, is for private projects.
+
+## Why you will like to work with me
+
+- I'm a good learner, and i like to make a good question
+- I used to work with a complex and large system
+- I used to discuss architecture and planning a development and implementation
 
 ## My favorite context
 
 In my road development, i work i a lot of contexts, but the my favorites is :
 - Finantials context, with a lot pipelines and queues
 - Educationals context, with a lot data for generate informations, as scheduled services
+
 
     
 </details>
@@ -34,8 +41,8 @@ In my road development, i work i a lot of contexts, but the my favorites is :
 ```
 ```
 python version>=2.11 expert loved
-java version>=11 expert loved
-golang version>=1.0 near-expert loved
+java version>=11 learner loved
+golang version>=1.0 learner loved
 ```
 ```bash
 > cat /opt/github/wnatanmq/wnatanmq/message-foutstide
