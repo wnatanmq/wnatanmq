@@ -4,6 +4,12 @@
 <img  align="center" src="https://github.com/wnatanmq/wnatanmq/assets/42272030/11aa5f6c-686f-46ca-b48c-3ebd9f941508" width="200" />
 </p>
 
+<detail>
+    <summary>
+        Advanced details <<
+    </summary>
+
+
 ```bash
 > cat /opt/github/wnatanmq/wnatanmq/server-lang \
     | grep -e expert -e near-expert -e loved
@@ -38,3 +44,4 @@ stoicism relaxed
 ```bash
 ~ > ␇
 ```
+</detail>
